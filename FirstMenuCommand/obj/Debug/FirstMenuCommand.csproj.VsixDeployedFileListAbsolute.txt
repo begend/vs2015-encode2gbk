@@ -1,0 +1,4 @@
+C:\Users\jack\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\jach chen\FirstMenuCommand\1.0\\FirstMenuCommand.dll
+C:\Users\jack\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\jach chen\FirstMenuCommand\1.0\\FirstMenuCommand.pdb
+C:\Users\jack\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\jach chen\FirstMenuCommand\1.0\\FirstMenuCommand.pkgdef
+C:\Users\jack\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\jach chen\FirstMenuCommand\1.0\\extension.vsixmanifest
